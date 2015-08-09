@@ -13,6 +13,8 @@ body {
 
 .ryu {
 	float:left;
+	height: 494px;
+	overflow:hidden;
 }
 
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
@@ -54,4 +56,20 @@ body {
 	top: 277px;
 	left: 572px;
 	float:left;	
+}
+
+.left {
+	float: left;
+	margin-top: 100px;
+	padding: 30px;
+	width: 350px;
+	font-size: 30px;
+}
+
+.right {
+	float: left;
+	margin-top: 250px;
+	padding: 30px;
+	width: 350px;
+	font-size: 30px;
 }
